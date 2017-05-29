@@ -1,4 +1,4 @@
-# DigiSparkSDCard
+# DigiSparkSDCard (Will Start When DigiDucky is Complete)
 DigiSpark SD card support project.
 
 Description:
